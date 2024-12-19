@@ -341,7 +341,7 @@ class WhatsApp extends StatelessWidget {
               SizedBox(height: 10,),
               Row(
                 children: [
-                  CircleAvatar(backgroundImage: AssetImage('images/Muiz.png')),
+                  CircleAvatar(backgroundImage: AssetImage('images/9.jpg')),
                   SizedBox(width: 10,),
                   Row(
                     children: [
@@ -349,7 +349,7 @@ class WhatsApp extends StatelessWidget {
                         children: [
                           Row(
                             children: [
-                              Text('Abdul Muiz'),
+                              Text('Abdul Hadi'),
                               SizedBox(width: 320,),
                               Text('3:39 PM',style: TextStyle(fontSize: 10),),
                             ],
@@ -368,7 +368,7 @@ class WhatsApp extends StatelessWidget {
               SizedBox(height: 10,),
               Row(
                 children: [
-                  CircleAvatar(backgroundImage: AssetImage('images/Muiz.png')),
+                  CircleAvatar(backgroundImage: AssetImage('images/11.jpg')),
                   SizedBox(width: 10,),
                   Row(
                     children: [
@@ -376,7 +376,7 @@ class WhatsApp extends StatelessWidget {
                         children: [
                           Row(
                             children: [
-                              Text('Abdul Muiz'),
+                              Text('Abdullah jr'),
                               SizedBox(width: 320,),
                               Text('3:39 PM',style: TextStyle(fontSize: 10),),
                             ],
@@ -395,7 +395,7 @@ class WhatsApp extends StatelessWidget {
               SizedBox(height: 10,),
               Row(
                 children: [
-                  CircleAvatar(backgroundImage: AssetImage('images/Muiz.png')),
+                  CircleAvatar(backgroundImage: AssetImage('images/10.jpg')),
                   SizedBox(width: 10,),
                   Row(
                     children: [
@@ -403,7 +403,7 @@ class WhatsApp extends StatelessWidget {
                         children: [
                           Row(
                             children: [
-                              Text('Abdul Muiz'),
+                              Text('Abdullah'),
                               SizedBox(width: 320,),
                               Text('3:39 PM',style: TextStyle(fontSize: 10),),
                             ],
@@ -422,7 +422,7 @@ class WhatsApp extends StatelessWidget {
               SizedBox(height: 10,),
               Row(
                 children: [
-                  CircleAvatar(backgroundImage: AssetImage('images/Muiz.png')),
+                  CircleAvatar(backgroundImage: AssetImage('images/11.jpg')),
                   SizedBox(width: 10,),
                   Row(
                     children: [
